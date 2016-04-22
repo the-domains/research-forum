@@ -1,0 +1,28 @@
+name: Research Forum
+favicon: null
+layout_spectrum: 0.6741790126543492
+typography_spectrum: 0.17831517988815904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.19067181064747274
+  lightness: 0.6230635156389326
+  saturation: 0.8627233263105154
+  rhythmicContrast: 0.9530536187812686
+purpose: []
