@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Research Forum]]></title>
+        <description><![CDATA[Research Forum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Apr 2016 20:40:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sign-in to Mendeley]]></title>
+            <description><![CDATA[<article><h1>Sign-in to Mendeley</h1><p>If you have an account with any Elsevier products (e.g. ScienceDirect, Scopus, Elsevier journals, etc.) you can use your credentials to sign in.</p></article>]]></description>
+            <link>https://www.mendeley.com/library/</link>
+            <guid isPermaLink="false">08ace786-13c4-4ebf-a495-6b611b91fe46</guid>
+            <pubDate>Fri, 22 Apr 2016 20:40:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
